@@ -27,5 +27,13 @@
 
 ![](https://github.com/WangRongsheng/Wear_mask/blob/master/img/pingtai.png)
 
+训练完成后的识别结果：
 
+![](https://github.com/WangRongsheng/Wear_mask/blob/master/img/test.png)
+
+# 演示
+
+你可以通过手机进行扫码使用该识别模型：
+
+![](https://github.com/WangRongsheng/Wear_mask/blob/master/img/study.png)
 
