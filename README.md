@@ -16,6 +16,8 @@
 
 本数据集一共1165张图像，其中戴口罩类514张，没戴口罩类651张。戴口罩类的图像都是B站视频里截图下来的，没戴口罩类的图像是`CASIA-FaceV5`、`WIDER_FACE`、`VOC2007`各数据集拼凑而成。
 
+![](https://github.com/WangRongsheng/Wear_mask/blob/master/img/dataset.png)
+
 其中`image_mask`文件夹图像对应`label_mask`文件夹标签
 `image_nomask`文件夹图像对应`label_nomask`文件夹标签
 
