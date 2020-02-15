@@ -21,3 +21,11 @@
 其中`image_mask`文件夹图像对应`label_mask`文件夹标签
 `image_nomask`文件夹图像对应`label_nomask`文件夹标签
 
+# 训练实用
+
+我采用的是百度的`EasyDL`平台进行图像学习识别。[百度EasyDL平台](https://ai.baidu.com/easydl/)
+
+![](https://github.com/WangRongsheng/Wear_mask/blob/master/img/pingtai.png)
+
+
+
