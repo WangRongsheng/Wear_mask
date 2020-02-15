@@ -6,9 +6,10 @@
 
 > 因为Github上传超过100MB的大数据集比较麻烦，所以为大家提供了百度网盘下载
 
-> 数据包括两个，其中
+> 数据包括两个：带标签的数据集和不带标签的数据集，其中数据完全一样；只是带标签可以用于更广泛的学习。
 
-：
+- 不带标签的数据集：https://pan.baidu.com/s/11T_VEplm-lCQMaBsx6r1pA （提取码：q2e8）
+- 带标签的数据集：链接：https://pan.baidu.com/s/11IEkdqMOR_e7fmv85Vr6TQ （提取码：mxhg ）
 
 # 关于数据
 
